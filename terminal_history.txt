@@ -1,0 +1,963 @@
+   50  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   51  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   52  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   53  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   54  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   55  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   56  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   57  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   58  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   59  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   60  conda activate dev
+   61  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   62  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   63  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   64  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   65  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   66  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   67  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   68  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   69  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   70  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   71  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   72  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   73  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   74  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   75  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   76  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   77  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   78  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   79  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   80  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   81  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   82  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   83  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   84  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   85  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   86  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   87  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   88  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   89  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   90  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   91  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   92  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   93  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   94  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   95  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   96  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   97  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+   98  source /Users/scottjmarler/opt/anaconda3/bin/activate
+   99  conda activate base
+  100  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  101  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  102  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  103  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  104  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  105  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  106  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  107  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  108  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  109  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  110  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  111  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  112  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  113  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  114  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  115  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  116  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  117  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  118  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  119  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  120  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  121  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  122  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  123  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  124  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  125  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  126  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  127  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  128  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  129  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  130  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  131  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  132  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  133  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  134  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  135  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  136  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  137  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  138  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  139  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  140  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  141  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  142  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  143  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  144  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  145  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FinTech/FinTech/loan_analyzer.py
+  146  conda activate dev
+  147  pip -v
+  148  pip freeze
+  149  pip install fire
+  150  pip install questionary
+  151  conda activate dev
+  152  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  153  conda activate base
+  154  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  155  conda activa dev
+  156  conda activate dev
+  157  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  158  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  159  conda activate dev
+  160  ls
+  161  cd Documents
+  162  ls
+  163  cd FinTech-Workspace
+  164  ls
+  165  cd local_activity_files
+  166  ls
+  167  cd Module_2
+  168  ls
+  169  cd class
+  170  cd 01_Loan_Qualifier_Financial_Calculations
+  171  ls
+  172  cd Unsolved
+  173  ls
+  174  python  app.py
+  175  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  176  conda activate base
+  177  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  178  conda activate dev
+  179  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  180  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  181  conda activate base
+  182   /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 52296 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  183  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  184  conda activate base
+  185   /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 52339 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  186  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  187  conda activate base
+  188   /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 52352 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  189  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  190  conda activate base
+  191   /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 52275 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  192   cd /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved ; /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 52311 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  193  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  194  conda activate base
+  195  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  196  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  197  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  198  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  199  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  200  conda activate base
+  201  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  202  conda activate dev
+  203  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  204  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  205  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  206  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  207  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  208  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  209  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  210  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  211  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  212  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  213  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  214  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  215  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  216  conda activate base
+  217  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  218  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  219  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  220  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  221  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  222  conda activate devconda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  223  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  224  conda activate base
+  225  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  226  conda activate dev
+  227  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  228  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  229  '/Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py'conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/calculator.py
+  230  conda activate dev
+  231  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/calculator.py
+  232  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  233  conda activate base
+  234  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/calculator/app.py
+  235  conda activate dev
+  236  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/calculator/app.py
+  237  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/calculator/app.py
+  238  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/calculator/app.py
+  239  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/calculator/app.py
+  240  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  241  conda activate base
+  242  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/loan_qualifier/app.py
+  243  conda activate dev
+  244  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/loan_qualifier/app.py
+  245  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/loan_qualifier/app.py
+  246  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/loan_qualifier/app.py
+  247  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/loan_qualifier/app.py
+  248  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/loan_qualifier/app.py
+  249  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/loan_qualifier/app.py
+  250  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/loan_qualifier/app.py
+  251  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/Loan_Qualifier/app.py
+  252  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/Loan_Qualifier/app.py
+  253  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/Loan_Qualifier/app.py
+  254  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/Loan_Qualifier/app.py
+  255  git push
+  256  go to the lake
+  257  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  258  conda activate base
+  259   /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 65148 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/Loan_Qualifier/app.py 
+  260  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  261  conda activate base
+  262   /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 65143 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/loan_qualifier/app.py 
+  263   cd /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2 ; /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 65524 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/loan_qualifier/app.py 
+  264  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  265  conda activate base
+  266   /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 65173 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/Module_2/Loan_Qualifier/app.py 
+  267  conda activate dev
+  268  git push
+  269  git.push
+  270  git push
+  271  conda create -n myenv python=3.6
+  272  conda create -n atmdev python=3.6
+  273  conda activate atmdev
+  274  conda activate dev
+  275  conda activate atmdev
+  276  git push
+  277  git pull
+  278   git pull
+  279  conda activate dev
+  280  git pull
+  281  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  282  conda activate base
+  283  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  284  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  285  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  286  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  287  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  288  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  289  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  290  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  291  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  292  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  293  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  294  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  295  conda activate dev
+  296  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  297  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  298  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  299  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  300  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  301  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  302  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved/atm/utils.py
+  303  conda activate atmdev
+  304  conda activate atmdev
+  305  conda activate atmdev
+  306  conda activate atmdev
+  307  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  308  conda activate base
+  309  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  310  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  311  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  312  conda activate atmdev
+  313  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/utils.py
+  314  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  315  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  316  conda activate base
+  317  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  318  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/actions/make_withdrawal.py
+  319  conda activcate atmdev
+  320  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  321  conda activate base
+  322  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/actions/make_withdrawal.py
+  323  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  324  git pull
+  325  ls
+  326  git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  327  ls
+  328  cd Untitled.ipynb
+  329  ls
+  330  conda activate dev
+  331  git pull
+  332  ls
+  333  CU-VIRT-FIN-PT-03-2022-U-B
+  334  cd CU-VIRT-FIN-PT-03-2022-U-B
+  335  git fetch
+  336  gir fetch
+  337  git fetch
+  338  git fetch
+  339  git fetch
+  340  git fetch
+  341  girt fetch
+  342  git fetch
+  343  git fetch
+  344  git fetch
+  345  git fetch
+  346  git fetch
+  347  git fetch
+  348  git fetch
+  349  git fetch
+  350  get fetch
+  351  git fetch
+  352  git fetch
+  353  git fetch
+  354  conda activate dev
+  355  conda deactivate dev
+  356  conda deactivate
+  357  git clone
+  358  https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  359  git clone https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  360  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  361  git clone
+  362  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  363  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  364  git clone
+  365  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  366  conda activate dev
+  367  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  368  conda activate base
+  369  conda run -n base --no-capture-output --live-stream python
+  370  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  371  conda activate base
+  372  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/actions/cli/cli.py
+  373  pwd
+  374  pip install fire
+  375  cd ..
+  376  ls
+  377  cd scottjmarler
+  378  ls
+  379  cd Documents
+  380  ls
+  381  cd FinTech-Workspace
+  382  ls
+  383  cd local_activity_files
+  384  ls
+  385  cd moduke_2
+  386  cd module_2
+  387  ls
+  388  cd Class_1_Activities
+  389  ls
+  390  cd ..
+  391  ls
+  392  cd loan_qualifier
+  393  ls
+  394  ls
+  395  cd ..
+  396  ls
+  397  python cli.py
+  398  pwd
+  399  ls
+  400  cd Doc
+  401  cd Documents
+  402  ls
+  403  cd FinTech-Workspace
+  404  ls
+  405  cd local_activity_files
+  406  ls
+  407  cd module_
+  408  cd module_2
+  409  ls
+  410  python cli.py
+  411  python cli.py --pants=True
+  412  ls
+  413  cd loan_qualifier
+  414  ls
+  415  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  416  ls
+  417  cd un
+  418  cd Unsolved
+  419  ls
+  420  python cli.py
+  421  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  422  conda activate base
+  423  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/cli.py
+  424  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  425  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  426  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  427  ls
+  428  cd Documents
+  429  ls
+  430  cd FinTech-Workspace
+  431  ls
+  432  cd local_activity_files
+  433  ls
+  434  cd module_2
+  435  ls
+  436  cd Class_1_Activities
+  437  ls
+  438  cd ..
+  439  ls
+  440  cd loan_qualifier
+  441  ls
+  442  python app.py
+  443  python app.py
+  444  python app.py
+  445  python app.py
+  446  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  447  conda activate base
+  448  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  449  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  450  conda activate dev
+  451  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  452  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  453  conda activate base
+  454   /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 51870 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py 
+  455   cd /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved ; /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 51878 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py 
+  456   cd /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved ; /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 51887 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py 
+  457  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  458  conda activate base
+  459  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/01_Modularize_Your_Loan_Qualifier_Application/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  460  conda activate dev
+  461  conda activate fire
+  462  cd 
+  463  ls
+  464  cd Doc
+  465  cd Documents
+  466  ls
+  467  cd FinTech-Workspace
+  468  ls
+  469  cd local_activity_files
+  470  ls
+  471  cd module_2
+  472  ls
+  473  cd 01_Modularize_Your_Loan_Qualifier_Application
+  474  ls
+  475  ls
+  476  ls
+  477  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  478  ls
+  479  cd Unsolved
+  480  ls
+  481  python app.py
+  482  python app.py --credit_score=750
+  483  python app.py --credit_score=750
+  484  python app.py --credit_score=750
+  485  python app.py --credit_score=750
+  486  python app.py --credit_score=750
+  487  python app.py --credit_score=750
+  488  python app.py
+  489  ls
+  490  python app.py
+  491  python app.py --credit_score=750
+  492  python app.py --credit_score=750 --debt=5000 ==income=60000.
+  493  conda activate dev
+  494  cwd
+  495  pwd
+  496  ls
+  497  cd Doc
+  498  cd Documents
+  499  ls
+  500  cd FinTech-Workspace
+  501  ls
+  502  cd local_activity_files
+  503  ls
+  504  cd module_2
+  505  ls
+  506  cd 01_Modularize_Your_Loan_Qualifier_Application
+  507  ls
+  508  ls
+  509   cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  510  ls
+  511  cd Unsolved
+  512  ls
+  513  python app.py --credit_score=750 --debt=5000 ==income=60000.
+  514  python app.py --credit_score=750 --debt=5000 ==income=20000.
+  515  python app.py --credit_score=750 --debt=5000 --income=60000.
+  516  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  517  conda activate base
+  518  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/01_Modularize_Your_Loan_Qualifier_Application/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  519  conda activate dev
+  520  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/01_Modularize_Your_Loan_Qualifier_Application/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  521  python app.py --credit_score=750
+  522  python app.py --credit_score=750 --debt=5000 --income=60000.
+  523  python app.py --credit_score=550 --debt=15000 ==income=10000.
+  524  python app.py --credit_score=550 --debt=15000 --income=10000.
+  525  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  526  conda activate base
+  527   /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 52360 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/Questionary_practice/dialog.py 
+  528  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  529  conda activate base
+  530   /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 52355 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/Questionary_practice/dialog.py 
+  531  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  532  conda activate base
+  533  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/Questionary_practice/dialog.py
+  534  conda activate dev
+  535  conda activate questionary
+  536  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/Questionary_practice/dialog.py
+  537  pip install questionary 
+  538  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  539  conda activate base
+  540   /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 52918 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py 
+  541  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  542  conda activate base
+  543   /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 52913 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py 
+  544  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  545  conda activate base
+  546  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  547  conda activate dev
+  548  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  549  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  550  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  551  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  552  conda activate base
+  553  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  554  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  555  conda activate dev
+  556  pip install questionary
+  557  ls
+  558  cd Documents
+  559  ls
+  560  cd FinTech-Workspace
+  561  ls
+  562  cd local_activity_files
+  563  ls
+  564  cd module_2
+  565  ls
+  566  cd Questionary_practice
+  567  ls
+  568  python dialog.py
+  569  python dialog.py
+  570  python dialog.py
+  571  python dialog.py
+  572  python dialog.py
+  573  python dialog.py
+  574  python dialog.py
+  575  python dialog.py
+  576  python dialog.py
+  577  cd .
+  578  cd .
+  579  cd ..
+  580  ls
+  581  cd 02_Adding_questionary_to_Loan_Qualifier
+  582  ls
+  583  ld
+  584  ls
+  585  cd Unsolved
+  586  ls
+  587  python app.py --credit_score=750 --debt=5000 --income=20000
+  588  python app.py
+  589  python app.py
+  590  git pull
+  591  conda activate dev
+  592  conda activate fire
+  593  conda activate atm
+  594  conda activate dev
+  595  git pull
+  596  git pull
+  597  gitconfig --global scottjmarler@gmail.com
+  598  cd
+  599  ls
+  600  cd Documents
+  601  ls
+  602  cd GitHub
+  603  ls
+  604  git pull
+  605  ls
+  606  git clone <git@github.com:scottjmarler/FinTech-module_2.git>
+  607  git clone git@github.com:scottjmarler/FinTech-module_2.git
+  608  ls
+  609  cd FinTech-module_2
+  610  ls
+  611  open README.md
+  612  git status
+  613  git add README.md
+  614  git status
+  615  touch example_file.txt
+  616  ls
+  617  git status
+  618  git add example_file.txt
+  619  git status
+  620  git commit -m "Edited README file and added a new text file"
+  621  git status
+  622  git push
+  623  cd ..
+  624  ls
+  625  git status
+  626  git status
+  627  git add  .DS_Store , inexpensive_loans.csv , loan_analyzer.py , module_2
+  628  git add .DS_Store
+  629  git add inexpensive_loans.csv
+  630  git add loan_analyzer.py
+  631  git add module_2
+  632  git status
+  633  git commit -m "Initial changes to practice_file"
+  634  git status
+  635  ls
+  636  cd module_2
+  637  ls
+  638  git status
+  639  git pull
+  640  git pull
+  641  cd Docu
+  642  cd Documents
+  643  ls
+  644  cd GitHub
+  645  ls
+  646  get pull
+  647  git pull
+  648  git status
+  649  ls
+  650  git status
+  651  git pull
+  652  git pull git@github.com:scottjmarler/FinTech-apply_markdown_styling.git
+  653  ls
+  654  git fetch
+  655  git status
+  656  ls
+  657  git pull
+  658  git pull git@github.com:scottjmarler/FinTech-apply_markdown_styling.git
+  659  git config --global puff.ff only
+  660  git status
+  661  git pull
+  662  git pull git@github.com:scottjmarler/FinTech-apply_markdown_styling.git
+  663  git pull
+  664  git status
+  665  git pull
+  666  ls
+  667  cd FinTech
+  668  ls
+  669  cd Documents
+  670  ls
+  671  cd GitHub
+  672  ls
+  673  cd FinTech-apply_markdown_styling
+  674  ls
+  675  cd ..
+  676  cd ..
+  677  cd GitHub
+  678  git pull
+  679  git status
+  680  git pull
+  681  git pull Initial file changes loan programs
+  682  cd ..
+  683  git pull
+  684  cd GitHub
+  685  ls
+  686  cd FinTech-apply_markdown_styling/git pull git@github.com:scottjmarler/FinTech-apply_markdown_styling.git
+  687  cd FinTech-apply_markdown_styling
+  688  conda activate dev
+  689  git pull git@github.com:scottjmarler/FinTech-apply_markdown_styling.git
+  690  git status
+  691  ls
+  692  ls
+  693  cd Documents
+  694  ls
+  695  cd GitHub
+  696  ls
+  697  cd FInTech-loan_qualifier_app
+  698  ls
+  699  cd ..
+  700  ls
+  701  cd ..
+  702  la
+  703  ls
+  704  cd FinTech-Workspace
+  705  ls
+  706  cd local_activity_files
+  707  ls
+  708  cd module_2
+  709  ls
+  710  cd 01_Modularize_Your_Loan_Qualifier_Application
+  711  ls
+  712  ls
+  713  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  714  ls
+  715  cd Unsolved
+  716  ls
+  717  python app.py
+  718  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  719  conda activate base
+  720  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/01_Modularize_Your_Loan_Qualifier_Application/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  721  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/01_Modularize_Your_Loan_Qualifier_Application/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  722  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/app.py
+  723  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  724  conda activate base
+  725  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/app.py
+  726  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/app.py
+  727  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/app.py
+  728  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  729  conda activate base
+  730   /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 58920 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/app.py 
+  731  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  732  conda activate base
+  733   /usr/bin/env /Users/scottjmarler/opt/anaconda3/bin/python /Users/scottjmarler/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/lib/python/debugpy/launcher 58915 -- /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/app.py 
+  734  conda activate dev
+  735  cd Do
+  736  cd Documents
+  737  ls
+  738  cd ..
+  739  cd Documents
+  740  ls
+  741  cd GitHub
+  742  ls
+  743  cd FInTech-loan_qualifier_app
+  744  ls
+  745  cd loan_qualifier
+  746  ls
+  747  python app.py
+  748  python app.py
+  749  python.py
+  750  python app.py
+  751  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  752  conda activate base
+  753  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/loan_qualifier/app.py
+  754  cd Documents
+  755  ls
+  756  cd GitHub
+  757  ls
+  758  cd FInTech-loan_qualifier_app
+  759  ls
+  760  touch COPYING.txt
+  761  ls
+  762  open COPYING.txt
+  763  cd Documents
+  764  ks
+  765  ls
+  766  cd GitHub
+  767  la
+  768  la
+  769  ls
+  770  cd FInTech-loan_qualifier_app
+  771  ls
+  772   git pull 
+  773  git status
+  774  git add COPYING.txt
+  775  git add loan_qualifier
+  776  git add pip_fire_install_ss.jpg
+  777  git add pip_questionary_install_ss.jpg
+  778  git add usage_screenshot.jpg
+  779  git status
+  780  git add README.md
+  781  git status
+  782  git add .DS_Store
+  783  git status
+  784  git commit -m"Added files to the loan_qualifier repository. Also includes updated README.md"
+  785  git status
+  786  ¬
+  787  cd ..
+  788  cd ..
+  789  cd ..
+  790  cd ..
+  791  ls
+  792  cd scottjmarler
+  793  ls
+  794  cd CU-VIRT-FIN-PT-03-2022-U-B
+  795  git status
+  796  git restore
+  797  git restore CU-VIRT-FIN-PT-03-2022-U-B
+  798  git status
+  799  git pull
+  800  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  801  conda activate base
+  802  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/class_2_activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  803  conda activate dev
+  804  conda activate atm
+  805  conda activate atm
+  806  source activate atm
+  807  conda info --envs
+  808  conda activate atmdev
+  809  conda activate atmdev
+  810  source activate atmdev
+  811  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/class_2_activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  812  conda activate atmdev
+  813  cd ..
+  814  cd ..
+  815  cd ..
+  816  cd ..
+  817  conda activate atmdev
+  818  cd ..
+  819  cd ..
+  820  conda activate atmdev
+  821  conda activate atmdev
+  822  conda activate dev
+  823  conda activate atmdev
+  824  conda activate atmdev
+  825  ls
+  826  cd Documents
+  827  ks
+  828  ls
+  829  cd GitHub
+  830  ls
+  831  cd FInTech-loan_qualifier_app
+  832  ls
+  833  cd loan_qualifier
+  834  ls
+  835  python app.py
+  836  conda deactivate
+  837  python app.py
+  838  conda activate dev
+  839  python app.py
+  840  python app.py
+  841  python app.py
+  842  python app.py
+  843  python app.py
+  844  python app.py
+  845  python app.py
+  846  conda activate dev
+  847  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  848  conda activate base
+  849  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FInTech-loan_qualifier_app/loan_qualifier/app.py
+  850  conda activate dev
+  851  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/GitHub/FInTech-loan_qualifier_app/loan_qualifier/app.py
+  852  cd Documents
+  853  ls
+  854  cd GitHub
+  855  ls
+  856  cd FInTech-loan_qualifier_app
+  857  history 50 > terminal_history.txt
+  858  conda activate atmdev
+  859  cd ..
+  860  ls
+  861  cd ..
+  862  ls
+  863  cd FinTech-Workspace
+  864  ls
+  865  cd local_activity_files
+  866  ls
+  867  cd module_2
+  868  ls
+  869  cd class_2_activities
+  870  ls
+  871  cd 01_Ins_ATM_Application
+  872  ls
+  873  cd Unsolved
+  874  ls
+  875  cd atm
+  876  ls
+  877  python atm.py
+  878  conda activate dev
+  879  python atm.py
+  880  conda env listy
+  881  conda inv list
+  882  conda env list
+  883  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  884  conda activate base
+  885  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/class_2_activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  886  conda activate atmdev
+  887  ls
+  888  cd ..
+  889  ls
+  890  cd class_2_activities
+  891  ls
+  892  cd 01_Ins_ATM_Application
+  893  ls
+  894  cd Unsolved
+  895  ls
+  896  cd atm
+  897  confa deactivate
+  898  conda activate
+  899  conda create -n atmdev1 python=3.7 anaconda
+  900  conda activate atmdev1
+  901  pip install -r .\requirements.txt
+  902  pip install -r 01_Ins_ATM_Application/Unsolved/atm/requirements.txt
+  903  cd Documents
+  904  ls
+  905  cd FinTech-Workspace
+  906  ls
+  907  cd local_activity_files
+  908  ls
+  909  cd module_2
+  910  ls
+  911  cd class_2_activities
+  912  ls
+  913  cd 01
+  914  cd 01_Ins_ATM_Application
+  915  ls
+  916  cd Unsolved
+  917  ls
+  918  cd atm
+  919  ls
+  920  conda activate atmdev1
+  921  pip install -r .\requirements.txt
+  922  pip install -r requirements.txt
+  923  python app.py
+  924  ls
+  925  ls
+  926  python atm.py
+  927  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  928  conda activate base
+  929  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/class_2_activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  930  conda activate atmdev1
+  931  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/class_2_activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  932  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/class_2_activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  933  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/class_2_activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  934  ls
+  935  cd Documents
+  936  ls
+  937  cd FinTech-Workspace
+  938  ls
+  939  cd local_activity_files
+  940  ls
+  941  cd module_2
+  942  LS
+  943  cd class_2
+  944  cd class_2_activities
+  945  ls
+  946  cd 02_Stu_Build_ATM_Functions
+  947  cd F
+  948  ls
+  949  cd Unsolved
+  950  ls
+  951  cd atm
+  952  conda activate atm1
+  953  conda activate atmdev1
+  954  pip install -r \requirements.txt
+  955  python atm.py
+  956  source /Users/scottjmarler/opt/anaconda3/bin/activate
+  957  conda activate base
+  958  conda run -n base --no-capture-output --live-stream python /Users/scottjmarler/Documents/FinTech-Workspace/local_activity_files/module_2/class_2_activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  959  conda activate atmdev1
+  960  python atm.py
+  961  ls
+  962  cd 02_Stu_Build_ATM_Functions
+  963  ls
+  964  cd Unsolved
+  965  ls
+  966  cd atm
+  967  ls
+  968  python atm.py
+  969  git status
+  970  conda deactivate
+  971  cd ..
+  972  cd  ..
+  973  cd ..
+  974  cd ..
+  975  cd ..\..
+  976  cd ../..
+  977  cd ..
+  978  cd ..
+  979  cd Documents
+  980  ls
+  981  cd GitHub
+  982  ls
+  983  git status
+  984  ls
+  985  cd FInTech-loan_qualifier_app
+  986  ls
+  987  git status
+  988  git add -A
+  989  git status
+  990  git commit -m "Updated files for loan_qualifier app"
+  991  git push
+  992  git status
+  993  cd Documents
+  994  ks
+  995  ls
+  996  cd GitHub
+  997  ls
+  998  cd FInTech-loan_qualifier_app
+  999  ls
+ 1000  git status
+ 1001  history 50 > terminal_history.txt
+ 1002  history 50 > terminal_history.txtcd ..
+ 1003  git status
+ 1004  add -A
+ 1005  git add -A
+ 1006  git status
+ 1007  git commit -m "updates made to ` README.md`"
+ 1008  git commit -m "changes made to readme file"
+ 1009  git push
+ 1010  git status
+ 1011  history 50 > terminal_history.txt
+ 1012  history 50 <  terminal_history.txt
