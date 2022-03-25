@@ -95,9 +95,16 @@ def save_qualifying_loans(qualifying_loans):
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
-
-    csvpath = Path('qualifying_loans.csv')
-    save_csv(csvpath, qualifying_loans)
+    """ ask user if they want to save their qualifying loans and hae user input path to output data."""
+    
+    if questionary.confirm("Would you like to save the qualifying loans into a spreadsheet?").ask() == True:
+        csvpath_output = questionary.text("Enter the output path to save the (.csv):").ask()
+        csvpath_output = Path(csvpath_output)
+        
+    save_csv(csvpath_output, qualifying_loans)
+    load_csv(csvpath_output)
+    
+    
 
 
 def run():

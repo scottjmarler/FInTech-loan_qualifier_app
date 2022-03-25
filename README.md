@@ -1,4 +1,4 @@
-# Project Title
+# Loan Qualifier Application
 
 Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
 
@@ -16,11 +16,11 @@ Just after the title, introduce your project by describing attractively what the
 
 ### [Fire](https://google.github.io/python-fire/) 
 
-The *Fire* library was used to automatically generate a command line interface for the user. 
+The *Fire* library was used to automatically generate a command line interface for the user.  [https://google.github.io/python-fire/](https://google.github.io/python-fire/)
 
 ### [Questionary](https://pypi.org/project/questionary/) 
 
-The *Questionary* library was used to help build command line user input prompts with `questionary.text` and `.ask()`.  
+The *Questionary* library was used to help build command line user input prompts with `questionary.text` and `.ask()`.  [https://pypi.org/project/questionary/](https://pypi.org/project/questionary/)
 
 ---
 
@@ -32,11 +32,11 @@ Users should install the dictionaries in terminal(MAC) or bash(Windows) using th
 
 >   ```pip install fire```
 
-![Screen shot of install command using terminal](pip_fire_install_ss.jpg)
+![Screen shot of install command using terminal](image/../loan_qualifier/images/pip_fire_install_ss.jpg)
 
 >   ```pip install questionary```
 
-![Screen shot of install command using terminal](pip_questionary_install_ss.jpg)
+![Screen shot of install command using terminal](image/../loan_qualifier/images/pip_questionary_install_ss.jpg)
 
 ---
 
@@ -45,19 +45,24 @@ Users should install the dictionaries in terminal(MAC) or bash(Windows) using th
 
 *The process to run the program is as follows:*
 
-> 1.  open terminal(MAC) or bash(windows) and navigate to the directory that holds the program files. 
-> 2.  once in the command line and navigated to the program directory,  type `python app.py` and click enter. 
-> 3.  The program should open and begin asking you a series of questions for user input. 
-> 4.  *Enter a file path to a rate-sheet (.csv)*  Provide a path for the location of the `daily_rate_sheet.csv` file.
-> 5.  *Whats your credit score?* Provide a credit score.
-> 6.  *Whats the sum of all monthly debts?* Provide a sum of your monthly debts.
-> 7.  *Whats your gross income?* Provide your gross monthly income.
-> 8.  *Whats the desired loan amount?* Enter the amount of funds your seeking for the loan.
-> 9.  *Whats the value of the property your seeking financing for?* Enter the value of the property you intend purchase with the loan.
-> 10. The program will return user LTV, DTI, and number of banks willing to loan the funds requested. 
+> 1.  open terminal(MAC) or bash(windows) and navigate to the root directory of the loan qualifier application. 
+> 2.  Enter `conda activate dev` in the terminal to activate the conda dev framework environment.  
+> 3.  once in the command line and navigated to the program directory,  type `python app.py` and click enter. 
+> 4.  The program should open and begin asking you a series of questions for user input. 
+> 5.  *Enter a file path to a rate-sheet (.csv)*  Provide a path for the location of the `daily_rate_sheet.csv` file.
+> 6.  *Whats your credit score?* Provide a credit score.
+> 7.  *Whats the sum of all monthly debts?* Provide a sum of your monthly debts.
+> 8.  *Whats your gross income?* Provide your gross monthly income.
+> 9.  *Whats the desired loan amount?* Enter the amount of funds your seeking for the loan.
+> 10.  *Whats the value of the property your seeking financing for?* Enter the value of the property you intend purchase with the loan.
+> 11. The program will return user LTV, DTI, and number of banks willing to loan the funds requested. 
+> 12. The program will use `.confirm.ask` to see if the user wants to save the data to a csv file. 
+> 13. The program will prompt the user for the output path of the data needing to be extracted from the program. 
 
 
-![](usage_screenshot.jpg)
+![](image/../loan_qualifier/images/usage_screenshot.jpg)
+
+![](image/../loan_qualifier/images/questions_ss_w-csv-save-output.png)
    
 
 
