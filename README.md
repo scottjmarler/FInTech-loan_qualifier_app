@@ -1,6 +1,6 @@
 > # Loan Qualifier Application
 
-[<img src="https://img.shields.io/badge/language-Python-orange.svg?logo=LOGO">](python.org)
+[<img src="https://img.shields.io/badge/language-Python-orange.svg?logo=LOGO">](https://www.python.org/)
 [<img src="https://img.shields.io/badge/platform-dev-orange.svg?logo=LOGO">](<LINK>)
 [<img src="https://img.shields.io/badge/libraries-2-orange.svg?logo=LOGO">](<LINK>)
 [<img src="https://img.shields.io/badge/license-GNU General Public License v3.0-blue.svg?logo=LOGO">](COPYING.txt)
