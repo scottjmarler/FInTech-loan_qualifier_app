@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/license-GNU General Public License v3.0-blue.svg?logo=LOGO">](COPYING.txt)
 
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This loan calculator program helps users find banks willing to loan funds based on the users DTI, LTV, and home value. With user data entered,  the program determines what banks have a loan program that suits the users needs. 
 
 ---
 
@@ -20,13 +20,11 @@ Just after the title, introduce your project by describing attractively what the
 
 ### Libraries:  
 
-### [Fire](https://google.github.io/python-fire/) 
+>pandas  https://pandas.pydata.org/
 
-The *Fire* library was used to automatically generate a command line interface for the user.  [https://google.github.io/python-fire/](https://google.github.io/python-fire/)
+>pathlib  
 
-### [Questionary](https://pypi.org/project/questionary/) 
-
-The *Questionary* library was used to help build command line user input prompts with `questionary.text` and `.ask()`.  [https://pypi.org/project/questionary/](https://pypi.org/project/questionary/)
+>matplotlib
 
 ---
 
