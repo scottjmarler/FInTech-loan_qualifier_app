@@ -20,11 +20,8 @@ This loan calculator program helps users find banks willing to loan funds based 
 
 ### Libraries:  
 
->pandas  https://pandas.pydata.org/
+![Screen shot of libraries used in program](image/../loan_qualifier/images/libraries.png)
 
->pathlib  
-
->matplotlib
 
 ---
 
